@@ -28,5 +28,5 @@ Run report ZDEMO_EXCEL25.
 
 * Use Calibri font in Excel and auto width calculation
 
-You can upload Excel's default font Calibri from the regular .TTF font files using transaction SM73. Make sure to upload all four files (standard, bold, italic, bold and italic) and to use the description "Calibri", i.e. exactly the name Excel displays for the font. 
+You can upload Excel's default font Calibri from the regular .TTF font files using transaction SE73. Make sure to upload all four files (standard, bold, italic, bold and italic) and to use the description "Calibri", i.e. exactly the name Excel displays for the font. 
  
